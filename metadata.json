@@ -1,0 +1,6 @@
+{
+  "name": "AndMoney",
+  "description": "Plataforma moderna de e-commerce global e marketing automatizado. Encontre oportunidades, conecte plataformas oficiais e automatize suas campanhas de afiliados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
